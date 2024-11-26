@@ -1,27 +1,25 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+# main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Talks"
+  - title: "Work Experience"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Volunteer Work"
+    url: /volunteer/   
+
+#  - title: "Projects"
+ #   url: /projects/
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+ #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Mayank_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Bio"
+  #  url: /markdown/
