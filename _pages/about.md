@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello World! Welcome to my digital universe!🚀"
+title: "Hey there friend! Welcome to my universe!🚀"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Anshika Bajpai, where data science meets software engineering, and the possibilities are endless. I am a Senior Software Engineer at Optum, UnitedHealth Group. I completed my Bachelor of Technology with honors in the field of Computer Science and Engineering, from Jaypee Institute of Information Technology, India.
+I'm Mayank Garg. I am a Software Engineer 2 at JP Morgan Chase & Co. I completed my Bachelor of Technology in the field of Computer Science and Engineering, from National Institute of Technology Trichy , India.
 
 
 KEY ATTRIBUTES
@@ -20,15 +20,15 @@ KEY ATTRIBUTES
 
 HOBBIES
 ----------
-🏸 **Badminton Enthusiast:** When I'm not immersed in the world of technology, you'll find me on the badminton court, staying active and having a blast with friends. <br>
+🏸 **Sports Enthusiast:** When I'm not immersed in the world of technology, you'll find me in the field, staying active and having a blast with friends. <br>
 🤝 **Volunteer:** Building software by day, building communities by weekend. Volunteer work fuels my soul. <br>
 📚 **Bookworm Explorer:** Getting lost in the pages of books is my escape.<br>
-🎨 **Data Sets to Paintbrushes:** Off the keyboard, I trade data sets for paintbrushes, turning algorithms into art.<br>
+🎨 **Video Gaming:** Love to play games like Counter Strike.<br>
 
 
 RESEARCH INTERESTS
 --------
-Machine Learning, Data Science, Data Analytics, Artificial Intelligence, Recurrent Neural Network, Generative AI, Natural Language Processing, Convulational Neural Networks.
+Machine Learning, , Artificial Intelligence, Recurrent Neural Network, Generative AI, Natural Language Processing, Convulational Neural Networks, Cryptography, Blockchain.
 
 
 ***My mind loves data, my hands build software, and my heart seeks impact.***
