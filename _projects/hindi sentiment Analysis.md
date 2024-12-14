@@ -1,6 +1,6 @@
 ---
 title: "Hindi Sentiment Analysis on Tweets"
-excerpt: "☀️ Harvest sunshine, grow happiness. Click & see how PLANTIFY makes rooftop farming fun!<br/>[![Alternate Text](/files/PlantifyImage.png)](
+excerpt: "☀️ Analysing sentiments on Hindi tweets by enhancing existing lexicon-based-method(
 https://github.com/mayankgrg/hindi-sentiment-analysis-on-tweets
  'Hindi-Sentiment-Analysis-on-Tweets')
   "
