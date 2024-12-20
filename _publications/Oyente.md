@@ -1,8 +1,9 @@
 ---
 title: "Oyente Tool - Python, Solidity, Smart Contracts"
-excerpt: "[![Eatify](/files/EatifyImage.png)](
-https://github.com/user-attachments/assets/bed3a0b2-30da-43f3-b919-ea206868ee2c
-)"
+excerpt: "[![Oyente](![download](https://github.com/user-attachments/assets/ad34da94-3c16-4532-8fc2-19d5e8203a2a))](
+https://github.com/user-attachments/assets/bed3a0b2-30da-43f3-b919-ea206868ee2c'Click to view the demo for Vulnerability detection')
+ "
+
 collection: projects
 githublink: 'https://github.com/mayankgrg/Oyente-Tool-New-Vulnerabilities'
 itemdescription: "<ul><li>Enhanced the existing Oyente tool to detect three new vulnerabilities in Blockchain smart contracts - External Contract Referencing, Efficient Transaction Ordering Dependence, Tx_Origin.</li>
