@@ -1,16 +1,15 @@
 ---
-title: "EATIFY -  Mobile Application - Python, Firebase-ML Kit"
-excerpt: "<b>Click</b>, track, thrive! Take the first step towards a healthier you with our easy-to-use Ingredient Consumption Tracker App🍝.<br/>[![Eatify](/files/EatifyImage.png)](
-https://github.com/mayankgrg/mayankgrg.github.io/assets/40437600/f0d8676c-e7ed-4f4e-9c29-7e9e185d5619
- 'Click to view the video for EATIFY')
-  "
+title: "Oyente Tool - Python, Solidity, Smart Contracts"
+excerpt: "[![Eatify](/files/EatifyImage.png)](
+https://github.com/user-attachments/assets/bed3a0b2-30da-43f3-b919-ea206868ee2c
+)"
 collection: projects
-githublink: 'https://github.com/mayankgrg/Energy-Utilization-of-Rooftops-In-Urban-Areas'
-itemdescription: "<ul><li>Developed and implemented an innovative Ingredient Consumption Tracker Application, serving as a personalized healthcare assistant.</li>
-  <li>Leveraged advanced algorithms to analyze the impact of daily consumed ingredients, with a primary focus on diabetes, heart health, allergies, and weight management.</li></ul>"
+githublink: 'https://github.com/mayankgrg/Oyente-Tool-New-Vulnerabilities'
+itemdescription: "<ul><li>Enhanced the existing Oyente tool to detect three new vulnerabilities in Blockchain smart contracts - External Contract Referencing, Efficient Transaction Ordering Dependence, Tx_Origin.</li>
+  <li>Analyzed 1,200 smart contracts, identifying these vulnerabilities in 280 cases, and improving the security assessment process.</li></ul>"
 
 ---
 
 
-Developed and implemented an innovative Ingredient Consumption Tracker Application, serving as a personalized healthcare assistant.
-Leveraged advanced algorithms to analyze the impact of daily consumed ingredients, with a primary focus on diabetes, heart health, allergies, and weight management.
+Enhanced the existing Oyente tool to detect three new vulnerabilities in Blockchain smart contracts - External Contract Referencing, Efficient Transaction Ordering Dependence, Tx_Origin.
+Analyzed 1,200 smart contracts, identifying these vulnerabilities in 280 cases, and improving the security assessment process.
