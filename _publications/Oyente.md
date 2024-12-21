@@ -1,7 +1,7 @@
 ---
 title: "Oyente Tool - Python, Solidity, Smart Contracts"
-excerpt: "[![Oyente](![download](https://github.com/user-attachments/assets/ad34da94-3c16-4532-8fc2-19d5e8203a2a))](
-https://github.com/user-attachments/assets/bed3a0b2-30da-43f3-b919-ea206868ee2c
+excerpt: "[![OYENTE](/files/download.png)](
+https://github.com/anshikabajpai23/anshikabajpai23.github.io/assets/40437600/bf1ca304-0fa0-4468-826a-8c6904cd7233
 'Click to view the demo for Vulnerability detection')
  "
 
