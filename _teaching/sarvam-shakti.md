@@ -2,6 +2,8 @@
 title: "Sarvam Shakti"
 collection: teaching
 type: "Teacher"
+venue: "Sarvam Shakti"
+date: 'Oct 2024'
 permalink: /teaching/sarvam-shakti
 location: "Bangalore, India"
 start_date: 'Aug 2024'
