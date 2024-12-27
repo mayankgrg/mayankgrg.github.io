@@ -2,7 +2,7 @@
 title: "JPMorgan & Chase"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/jpmc
+permalink: /work-exp/jpmc
 location: "Bangalore, India"
 ---
 
