@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/hindi-sentiment-analysis
 excerpt: 'This paper is about analysing sentiment of tweets in Hindi language'
-date: 2024-02-17
+date: 2025-04-30
 venue: '2nd International Conference on Artificial Intelligence: Theory and Applications (AITA 2024).'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Garg, Mayank. (2024). &quot;Hindi Sentiment Analysis on Tweets.&quot; <i>Artificial Intelligence: Theory and Applications </i>. 1(3).'
