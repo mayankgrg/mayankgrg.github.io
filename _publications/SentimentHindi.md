@@ -7,7 +7,7 @@ excerpt: 'This paper is about analysing sentiment of tweets in Hindi language'
 date: 2025-04-30
 venue: '2nd International Conference on Artificial Intelligence: Theory and Applications (AITA 2024).'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Garg, Mayank. (2024). &quot;Hindi Sentiment Analysis on Tweets.&quot; <i>Artificial Intelligence: Theory and Applications </i>. 1(3).'
+citation: 'Garg, Mayank. (2024). &quot;Hindi Sentiment Analysis on Tweets.&quot; <i>Artificial Intelligence: Theory and Applications </i>.'
 ---
 
 * Developed a sentiment analysis model for Hindi tweets, addressing the research gap in the Hindi language on Twitter(X) tweets.
