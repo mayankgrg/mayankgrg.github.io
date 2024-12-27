@@ -13,4 +13,5 @@ citation: 'Garg, Mayank. (2024). &quot;Hindi Sentiment Analysis on Tweets.&quot;
 * Developed a sentiment analysis model for Hindi tweets, addressing the research gap in the Hindi language on Twitter(X) tweets.
 * Developed and compared approaches: Lexicon-based (Hindi-SentiWordNet) and Machine Learning-based (Naïve Bayes Classifier).
 * Identified an enhanced lexicon-based method, utilizing positive and negative word counts, as the most accurate for sentiment analysis in the Hindi language, accuracy improved from 41% to 65%.
+
 ---
