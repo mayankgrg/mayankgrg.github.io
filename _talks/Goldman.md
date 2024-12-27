@@ -2,7 +2,7 @@
 title: "Goldman Sachs"
 collection: talks
 type: "Talk"
-permalink: /talks/goldman
+permalink: /work-exp/goldman
 location: "Bangalore, India"
 ---
 * Inventory Management (Jun 2023 -Nov 2023)  
