@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Sarvam Shakti"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teacher"
+permalink: /teaching/sarvam-shakti
+location: "Bangalore, India"
+start_date: 'Aug 2024'
+end_date: 'Oct 2024'
+excerpt: ""
+itemdescription: "<ul><li>Volunteered to teach English and Mathematics to underprivileged girls, fostering education and empowering them with essential skills.</li></ul>"
+  
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+  * Volunteered to teach English and Mathematics to underprivileged girls, fostering education and empowering them with essential skills.
