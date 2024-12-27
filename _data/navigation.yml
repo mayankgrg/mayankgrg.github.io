@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: /publications/
     
- - title: "Certificates"
-   url: /files/Certificates.pdf
+  - title: "Certificates"
+    url: /files/Certificates.pdf
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
