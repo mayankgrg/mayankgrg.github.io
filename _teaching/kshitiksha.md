@@ -2,6 +2,8 @@
 title: "Kshitiksha Foundation"
 collection: teaching
 type: "Volunteer"
+venue: "Kshitiksha Foundation"
+date: 'Jul 2024'
 permalink: /teaching/kshitiksha
 location: "Bangalore, India"
 start_date: 'Jul 2024'
