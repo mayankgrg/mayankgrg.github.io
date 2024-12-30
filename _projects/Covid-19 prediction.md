@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 prediction"
 collection: projects
-githublink: 'https://github.com/mayankgrg/Covind-19-prediction'
+permalink: 'https://github.com/mayankgrg/Covind-19-prediction'
 
 
 ---
