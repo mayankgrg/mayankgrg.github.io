@@ -10,5 +10,7 @@ citation: 'Garg, Mayank. (2024). &quot;Hindi Sentiment Analysis on Tweets.&quot;
 ---
 
 ![AITA 2024 Presentation Certificate-016](https://github.com/user-attachments/assets/7711cc23-b680-437c-b26c-f93beaa6f514)
+![image](https://github.com/user-attachments/assets/cb34a612-5493-41a8-8597-9af666a63af8)
+
 
 ---
