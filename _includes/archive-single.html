@@ -35,13 +35,10 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% if post.collection == 'projects' %}
-          <a href="{{ post.url }}" rel="permalink"></a>
+          <a href="{{ post.url }}" rel="permalink">{{ post.url }}</a>
         {% endif %}
       {% endif %}
     </h2>
-    {% if post.collection == 'projects' %}
-          <a href="{{ post.url }}" rel="permalink"></a>
-        {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
