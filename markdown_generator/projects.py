@@ -74,7 +74,7 @@ for row, item in projects.iterrows():
     
     md += """collection: projects"""
     
-    md += """\npermalink: /projects/""" + html_filename
+    md += """\npermalink: """ + item.permalink
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
