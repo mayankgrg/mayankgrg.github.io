@@ -2,6 +2,7 @@
 title: "Covid-19 prediction"
 collection: projects
 permalink: 'https://github.com/mayankgrg/Covind-19-prediction'
+paperurl: 'https://github.com/mayankgrg/Covind-19-prediction'
 
 
 ---
