@@ -34,7 +34,7 @@
         {% endif %}
       {% else %}
         {% if post.collection == 'projects' %}
-          <p>{{ title }}</p>
+          <a href="{{ post.githuburl }}">{{ title }}</a>
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
