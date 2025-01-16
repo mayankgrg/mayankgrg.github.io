@@ -60,7 +60,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    {% elsif post.citation and post.githuburl %}
+    {% if post.githuburl %}
       <a href="{{ post.githuburl }}">Github Link to Project</a>
     {% endif %}
     {% if post.citation and post.paperurl and post.slidesurl %}
