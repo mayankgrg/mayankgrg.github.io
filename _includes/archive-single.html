@@ -34,9 +34,9 @@
         {% endif %}
       {% else %}
         {% if post.collection == 'projects' %}
-          <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
+          <a href="{{ post.url }}" rel="permalink">{{ title }}{{ post.url }}</a>
         {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}{{ title }}</a>
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       {% endif %}
     </h2>
