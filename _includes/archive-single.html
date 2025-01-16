@@ -33,9 +33,10 @@
             <a href="{{ post.link }}"></a> <a href="{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% endif %}
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% if post.collection == 'projects' %}
-          <a href="{{ post.url }}" rel="permalink">{{ base_path }}{{ post.url }}</a>
+          <a href="{{ post.url }}" rel="permalink"></a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       {% endif %}
     </h2>
