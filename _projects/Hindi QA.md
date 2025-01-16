@@ -1,7 +1,7 @@
 ---
 title: "Hindi Question Answering System - Levenshtein model, NLP, Python"
 collection: projects
-permalink: 'https://github.com/mayankgrg/Hindi-Question-Answering-Sysytem'
+githuburl: 'https://github.com/mayankgrg/Hindi-Question-Answering-Sysytem'
 
 ---
 * Developed a Hindi question-answering system using the Levenshtein model, achieving an accuracy of 93.4%.<br>
