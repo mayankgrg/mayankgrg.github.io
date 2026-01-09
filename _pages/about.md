@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Mayank Garg, a Senior Software Engineer at JP Morgan with a passion for crafting elegant and impactful solutions at the intersection of technology and innovation. Previously honing my skills at Goldman Sachs, and with a strong academic foundation from NIT Trichy, I thrive on tackling complex challenges and pushing the boundaries of what's possible. My mission? To leverage the power of software engineering and machine learning to build a better tomorrow. Whether it's designing robust, scalable systems or uncovering hidden insights from data, I'm driven to create solutions that make a real and positive difference in the world.
+Hi, I’m Mayank Garg, a Master of Science student in Computer Science at New York University, currently pursuing my degree as a full-time student. Prior to this, I worked as a Senior Software Engineer at JP Morgan, where I focused on building robust, scalable systems, and earlier honed my engineering skills at Goldman Sachs. I hold a strong academic foundation from NIT Trichy, which continues to shape my problem-solving mindset.
+
+I’m deeply passionate about working at the intersection of software engineering, data, and machine learning, and I thrive on tackling complex challenges that push the boundaries of what’s possible. My mission is to leverage technology to build thoughtful, impactful solutions that create real and positive change in the world.
 
 
 KEY ATTRIBUTES
